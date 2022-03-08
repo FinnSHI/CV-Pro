@@ -1,8 +1,8 @@
-# Install script for directory: /Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1
+# Install script for directory: E:/COMP5532-Project1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/cse576-2020sp-HW1")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/objdump")
+  set(CMAKE_OBJDUMP "E:/developer_tools/CLion 2021.3.2/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/COMP5532-Project1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

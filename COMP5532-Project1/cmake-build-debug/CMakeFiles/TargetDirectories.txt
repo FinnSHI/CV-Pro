@@ -1,5 +1,5 @@
-/Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1/cmake-build-debug/CMakeFiles/test_case.dir
-/Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1/cmake-build-debug/CMakeFiles/test0.dir
-/Users/qihuazhou/Desktop/学术科研组/郭老师POLYU/PolyU课程/TA_COMP5523_Computer_Vision/mini-project/project1/COMP5532-Project1/cmake-build-debug/CMakeFiles/uwimg++.dir
+E:/COMP5532-Project1/cmake-build-debug/CMakeFiles/test_case.dir
+E:/COMP5532-Project1/cmake-build-debug/CMakeFiles/uwimg++.dir
+E:/COMP5532-Project1/cmake-build-debug/CMakeFiles/test0.dir
+E:/COMP5532-Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/COMP5532-Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

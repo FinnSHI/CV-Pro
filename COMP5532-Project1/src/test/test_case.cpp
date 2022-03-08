@@ -114,11 +114,11 @@ int main(int argc, char **argv)
     // Case 6
 //    test_hsv_to_rgb();
 
-    // Case 7
+//     Case 7
 //    test_colorspace_saturation();
 
     // Case 8, extra credit, bonus, optional
-//    test_scale_image_saturation();
+    test_scale_image_saturation();
 
     return 0;
 }

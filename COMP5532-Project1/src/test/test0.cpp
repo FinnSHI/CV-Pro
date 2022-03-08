@@ -2,6 +2,7 @@
 #include "../utils.h"
 
 #include <string>
+#include <iostream>
 
 using namespace std;
 
@@ -117,9 +118,32 @@ int main(int argc, char **argv)
       for (int j=0; j<im2.h; j++)
           im2(i, j, 0) = 0;
   im2.save_image("output/pixel_modifying_output");
-  
+
+  Image im = load_image("data/dog.jpg");
+  // 4. Shift Image
+  shift_image(im, 0, .4);
+  shift_image(im, 1, .4);
+  shift_image(im, 2, .4);
+  im.save_image("output/shift_result");
+
+  im = load_image("data/dog.jpg");
+  // 5. Clamp Image
+  clamp_image(im);
+  im.save_image("output/clamp_result");
+
   // Running example tests
-  
+  // 6-7. Colorspace and saturation
+  Image im3 = load_image("data/dog.jpg");
+  rgb_to_hsv(im3);
+  shift_image(im3, 1, .2);
+  clamp_image(im3);
+  hsv_to_rgb(im3);
+  im3.save_image("output/colorspace_result");
+
+
+//  cout << float(1)/float(6) << "  " << 1/6 << " " << 1.0/6.0;
+//    float hue = 0.0000546;
+//    cout << (hue >= 0 && hue < 1.0 / 6.0) << (0 <= hue < 1.0 / 6.0);
   run_tests();
   
   return 0;
