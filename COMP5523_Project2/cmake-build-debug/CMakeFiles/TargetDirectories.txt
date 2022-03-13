@@ -1,0 +1,4 @@
+C:/Users/shifa/OneDrive - The Hong Kong Polytechnic University/PolyU Files/Course/Computer Vision/Project/COMP5523_Project2/cmake-build-debug/CMakeFiles/test_case.dir
+C:/Users/shifa/OneDrive - The Hong Kong Polytechnic University/PolyU Files/Course/Computer Vision/Project/COMP5523_Project2/cmake-build-debug/CMakeFiles/uwimg++.dir
+C:/Users/shifa/OneDrive - The Hong Kong Polytechnic University/PolyU Files/Course/Computer Vision/Project/COMP5523_Project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shifa/OneDrive - The Hong Kong Polytechnic University/PolyU Files/Course/Computer Vision/Project/COMP5523_Project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COMP5523_Project2_CPP_student_use",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_case::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_case-Debug-43b531ebca4f85310b5c.json",
+					"name" : "test_case",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uwimg++::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uwimg++-Debug-098f7dea41c78b3855fd.json",
+					"name" : "uwimg++",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/shifa/OneDrive - The Hong Kong Polytechnic University/PolyU Files/Course/Computer Vision/Project/COMP5523_Project2/cmake-build-debug",
+		"source" : "C:/Users/shifa/OneDrive - The Hong Kong Polytechnic University/PolyU Files/Course/Computer Vision/Project/COMP5523_Project2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
